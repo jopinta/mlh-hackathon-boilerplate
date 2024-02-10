@@ -29,19 +29,19 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "ML Hacks | 9-15 Jan 2024"
+  description: "This is a sample hackathon website that you can use to sign up for new events."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  name:        "Summer Hacks"
+  description: "This is a sample hackathon website that you can use to sign up for new events.""
+  date:        "9 - 15 Jan 2024"
+  location:    "Miami Beach, Fl, United States"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2024"  # season year
     region: "eu"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
@@ -56,21 +56,21 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      Summer Hacks is a hackathon survey hosted online.
+      This is your opportunity to join a event, and if asking what to expect, where it is just.
+      Keep it straightforward, it is not going to take too long.
 
   # Info Sections
   info:
     sections:
       - image: "images/image1.png"
-        title: "LEARN."
+        title: "Survey"
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          We can write something nice with a graphic but you have the true, who is abandoning the house next sunday and make the game more appealing.
       - image: "images/image2.png"
-        title: "BUILD."
+        title: "Nominees"
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          there are 7, 14 remeaning, 
       - image: "images/image3.png"
         title: "SHARE."
         description: >
